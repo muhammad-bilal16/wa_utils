@@ -1,0 +1,178 @@
+code,sap_code,drawing,service_type,service_description,rate_type,notes,wa_utilities_rate,subby_rate
+5100000,SPU,NS-001,Meter work,Upgrade of AL8/AL10 meter position ,per item,See Drawing NS-001,540.94,444.1632496
+5100001,SPU,NS-001,Meter work,Upgrade of AL12 meter position ,per item,See Drawing NS-001,1051.44,847.51293
+5100002,SPY,NS-002,Meter work,Alter Meter Position,per item,"See Drawing NS-002. 
+First 2m of PE pipework included.  AMP is also equivalent to alteration of service",673.48,601.594058
+3000123,TBD,-,Meter work,Upsize Meter AL8 to AL10  ,per item,Upsize of an existing AL6/8 meter to an AL10 meter including regulator replacement. Confirmation of service pipe sizing by regulator setting tool required by Contractor,393.41,328.2010779
+5100003,SPP,-,Meter work,Upsize Meter AL8 to AL12,per item,"Upsize AL8 to AL12 meter position including inlet riser, regulator and meter. Confirmation of service pipe sizing by regulator setting tool required by Contractor",1220.633,1072.418402
+5100004,SPP,-,Meter work,Upsize Meter AL12 to AL18,per item,Upsize AL12 to AL18 meter position including  meter. Confirmation of service pipe sizing by regulator setting tool required by Contractor,2022.07,1781.789196
+5100005,TBD,-,Meter work,Temporary Disconnect Service,per item,"Add to upgrade and alter meter position rates. 
+This is to be applied when a separate site visit to disconnect the service is required",323.63,280.181093
+3000132,TBD,-,Meter work,Supply / Install Gas Meter (AL8),per item,Install new meter and regulator onto existing service at Company's request. ,186.94,143.07292
+3000133,TBD,-,Meter work,Supply / Install Gas Meter (AL8),per item,Install new meter and regulator onto existing double or triple box manifold at Company's request whilst onsite completing other tasks.,152.99,131.83092
+3000110,TBD,-,Meter work,Vent Line ,per item,"Need to be approved by the Company prior to install. 
+Rate allows for up to 1.2m of 20mm Copper. Additional length/size will be charged at the appropriate additional copper rate",196.031,151.03053
+5100041,TBD,-,Meter work,AL18 uplift,per item,Uplift for the provision of an AL18 meter on top of SPP AL8-AL12 works,774.1,594.45812
+3000111,TBD,-,Meter work,AL10 Uplift,per item,Uplift to base rate when installing an AL10 meter opposed to an AL8 meter on a new service connection. The rate is the material difference between an AL8 and AL10 meter.,48.5,41.9
+3000134,TBD,NS-010,Meter work,Unit box connection Double 20mm CU,per item,Supply and install first meter & reg including additional pipework required to connect multiple meters. Additonal meters will be charged at the applicable rate,672.339,509.9896332
+3000135,TBD,NS-010,Meter work,Unit box connection Double 25mm CU,per item,Supply and install first meter & reg including additional pipework required to connect multiple meters. Additonal meters will be charged at the applicable rate,740.485,568.2302323
+3000136,TBD,NS-011,Meter work,Unit box connection Triple 25mm CU,per item,Supply and install first meter & reg including additional pipework required to connect multiple meters. Additonal meters will be charged at the applicable rate,962.7,735.5421234
+5100006,TBD,-,Meter work,Replace Meter,per item,"Replace faulty gas meter whilst on site completing other tasks. i.e. service relay, riser replacement. Not to be claimed with unit box connection",142.88,117.5902428
+3000141,TBD,-,Meter work,Install Meter only,per item,To Install a meter and regulator when there is an existing live Gas Service ( Attended site to install a new service),353.85,314.06202
+5100007,SN2,NS-003,Services,Established service Same Side (AL8),per item,"See Drawing NS-003.
+Includes up to 20m PE pipework in the property boundary. ",1066.771,883.5662178
+5100008,SN2,NS-003,Services,Established Opposite side service (AL8),per item,"See Drawing NS-003.
+Includes up to 20m PE pipework in the property boundary. ",1462.845,1165.854745
+5100009,SN3,NS-003,Services,New service Same Side (AL8) PLS connection,per item,"See Drawing NS-003.
+Includes up to 20m PE pipework in the property boundary. ",637.977,509.772934
+5100010,SN3,NS-003,Services,New service Same Side (AL8) Main connection,per item,"See Drawing NS-003.
+Includes up to 20m PE pipework in the property boundary. ",857.362,685.7338964
+5100011,SN3,NS-003,Services,New Opposite side Service (AL8),per item,"See Drawing NS-003.
+Includes up to 20m PE pipework in the property boundary. ",1227.4855,944.587248
+5100012,SN5,NS-003,Services,Established service Same Side (AL12),per item,"See Drawing NS-003.
+Includes up to 20m PE pipework in the property boundary. ",2473.3654,1902.355668
+5100013,SN5,NS-003,Services,Established Opposite side service (AL12),per item,"See Drawing NS-003.
+Includes up to 20m PE pipework in the property boundary. ",2941.288,2209.717932
+5100014,SN6,NS-003,Services,New service Same Side (AL12) PLS connection,per item,"See Drawing NS-003.
+Includes up to 20m PE pipework in the property boundary. ",1818.5768,1468.378992
+5100015,SN6,NS-003,Services,New service Same Side (AL12) Main connection,per item,"See Drawing NS-003.
+Includes up to 20m PE pipework in the property boundary. ",2337.572,1783.909802
+5100016,SN6,NS-003,Services,New Opposite side Service (AL12),per item,"See Drawing NS-003.
+Includes up to 20m PE pipework in the property boundary. ",2489.0082,1914.390044
+5100017,SNG,NS-004,Services,New Unit Box Connection (AL8),per item,See Drawing NS-004,479.205,365.5133
+5100018,TBD,NS-004,Services,New Unit Box Connection (AL12),per item,See Drawing NS-004,1348.28,1092.52076
+3000144,TBD,,Services,Semi Submerged meter box,per item,Install Semi submerged meterbox ( Supplied by the Company) including supply and install of the EFV ,0,0
+3000120,TBD,,Services,Established Unit Box Connection � AL8 (SNH),per item,Install unit box connection with AL8 meter in established location.  Rate to be equivalent to a SN2,1058.4514,895.0314153
+3000121,TBD,,Services,Established Unit Box Connection � AL12 (SNH),per item,Install unit box connection with AL12 meter in established location. Rate to be equivalent to a SN5,2086.0728,1604.665472
+3000122,TBD,,Services,Remove Meter (SP2),per item,"Whilst on site performing demo activity, remove meter.",24.03,23.0947983
+3000157,TBD,,Services,Install PLS,per item,"Install PLS up to 40mm PE, up to 5m in length ",227.25,181.8
+3000130,TBD,,Services,Alter PLS,per item,Alter PLS service as requested by company within the boundary of the property whilst maintaining original mains connection,294.7,226.761041
+5100019,SNR,NS-005,Services,Relay service Same Side 20mm PE,per item,"See Drawing NS-005.
+Includes replacement of exisiting tapping band by means of clements plugging tool",1354.955,903.199638
+5100020,SNR,NS-005,Services,Relay service Same Side 25mm PE,per item,"See Drawing NS-005.
+Includes replacement of exisiting tapping band by means of clements plugging tool",1439.15,959.334222
+5100021,SNR,NS-005,Services,Relay Service Same Side 40mm PE,per item,"See Drawing NS-005.
+Includes replacement of exisiting tapping band by means of clements plugging tool",1704.39,1136.01873
+5100022,SNR,NS-005,Services,Relay Service Same Side 63mm PE,per item,"See Drawing NS-005.
+Includes replacement of exisiting tapping band by means of clements plugging tool",2004.838,1336.379968
+5100023,SNR,NS-005,Services,Relay Opposite side service 20mm in diameter,per item,"See Drawing NS-005.
+Includes replacement of exisiting tapping band by means of clements plugging tool",1685.6098,1123.677742
+5100024,SNR,NS-005,Services,Relay Opposite side service 25mm in diameter,per item,"See Drawing NS-005.
+Includes replacement of exisiting tapping band by means of clements plugging tool",1802.024,1201.172126
+5100025,SNR,NS-005,Services,Relay Opposite side service 40mm in diameter,per item,"See Drawing NS-005.
+Includes replacement of exisiting tapping band by means of clements plugging tool",2181.574,1453.895652
+5100026,SNR,NS-005,Services,Relay Opposite side service 63mm in diameter,per item,"See Drawing NS-005.
+Includes replacement of exisiting tapping band by means of clements plugging tool",2590.3978,1685.893748
+5100027,TBD,-,Services,Relay service following disconnection ,per item,"Additional charge on relay service rates. 
+Once request received from retailer and issued to Contractor prior to 1pm, this relay shall occur the following Business day",58.9,44.175
+5100028,SN1,-,Services,Priority new connection ,per item,"Additional charge on new service rates. 
+Once request received from retailer and issued to Contractor prior to 1pm, this connection shall occur the following Business day",57.5,45.1060722
+3000137,TBD,-,Services,Replace service riser,per item,"Excavate in safe location, squeeze PE/PVC service, install new riser, install 1m of PE pipe, install new regulator. Test, Purge and Relight after installation. Including reinstatement. SLA: 5 working days excluding weekends",675.632,515.9618555
+3000138,TBD,-,Services,Replace service riser Grouped,per item,"Excavate in safe location, squeeze PE/PVC service, install new riser, install 1m of PE pipe, install new regulator. Test, Purge and Relight after installation. Including reinstatement. Jobs issued within the same suburb and in a group of 5 or more jobs. SLA: 5 working days excluding weekends",590.616,425.9594255
+3000139,TBD,-,Services,Replace corroded meter box,per item,"Supply and install stand alone meter box in the same location, includes fixings and connections to existing supply pipework as part of other activities. This activity requires an NOC",338.415,269.8403571
+3000140,TBD,-,Services,Replace corroded meter box,per item,"Supply and install combination meter box in the same location, includes fixings and connections to existing supply pipework as part of other activities. Coordination of electrical connection & disconnection. This activity requires an NOC",1725.06,1293.795
+5100029,TBD,-,Services,Service HDD 20mm ,per metre,"Needs to be conducted only with Company approval. 
+Note -All service and opposite side service rates will not apply when a service is installed by HDD
+",167.6122,123.4438789
+5100030,TBD,-,Services,Service HDD 25mm ,per metre,"Needs to be conducted only with Company approval. 
+Note -All service and opposite side service rates will not apply when a service is installed by HDD
+",197.7292,123.4438789
+5100031,TBD,-,Services,Service HDD 40mm,per metre,"Needs to be conducted only with Company approval. 
+Note -All service and opposite side service rates will not apply when a service is installed by HDD
+",262.8305,168.5137354
+5100032,TBD,-,Services,Service HDD 63mm,per metre,"Needs to be conducted only with Company approval. 
+Note -All service and opposite side service rates will not apply when a service is installed by HDD
+",269.9128,174.2356024
+5100033,TBD,-,Services,Partial Service HDD 20mm,per metre,"Needs to be conducted only with Company approval. 
+Minimum 10m will be chargeable. 
+Will apply when a section of a service relay is installed by HDD. This is to be added to the applicable same side service relay rate. ",118.767,73.21371407
+5100034,TBD,-,Services,Partial Service HDD 25mm,per metre,"Needs to be conducted only with Company approval. 
+Minimum 10m will be chargeable. 
+Will apply when a section of a service relay is installed by HDD. This is to be added to the applicable same side service relay rate. ",119.967,73.21371407
+5100035,TBD,-,Services,Partial Service HDD 40mm,per metre,"Needs to be conducted only with Company approval. 
+Minimum 10m will be chargeable. 
+Will apply when a section of a service relay is installed by HDD. This is to be added to the applicable same side service relay rate. ",121.467,81.03431357
+5100036,TBD,-,Services,Partial Service HDD 63mm,per metre,"Needs to be conducted only with Company approval. 
+Minimum 10m will be chargeable. 
+Will apply when a section of a service relay is installed by HDD. This is to be added to the applicable same side service relay rate. ",127.2,80.26536077
+5100037,TBD,-,Services,Partial Service HDD 110mm,per metre,"Needs to be conducted only with Company approval. 
+Minimum 10m will be chargeable. 
+Will apply when a section of a service relay is installed by HDD. This is to be added to the applicable same side service relay rate. ",138.72,89.77241357
+3000160,TBD,NS-006,Services,Demo at main in verge - whilst on site,per item,"Remove Tapping Band on main and replace tapping band
+Use of Clements Plugging Tool
+(Specialised Tooling Provided by the Company) Includes reinstatement
+Excludes removal of meter (SP2 activity)",414.3511,342.410838
+3000161,TBD,NS-006,Services,Demo at main in footpath - whilst on site,per item,"Remove Tapping Band on main and replace tapping band
+Use of Clements Plugging Tool
+(Specialised Tooling Provided by the Company) Includes reinstatement
+Excludes removal of meter (SP2 activity)",1157.6284,967.7600306
+3000162,TBD,NS-006,Services,Demo at main in Road - whilst on site,per item,"Remove Tapping Band on main and replace tapping band
+Use of Clements Plugging Tool
+(Specialised Tooling Provided by the Company) Includes reinstatement
+Excludes removal of meter (SP2 activity)",1108.84,802.346608
+5100038,TBD,NS-007,Services,Insert tee in PLS,per item,"Added to new service rate. 
+See Drawing NS-007",85.66,67.200518
+5100042,-,-,Over length Services,20mm PE ,per metre,"Install (per metre) for situations where the service length is over the 20 metre allowance. 
+If Open Trench supplied, apply Open Trench MIPD rate",32.86,25.87534754
+5100043,-,-,Over length Services,25mm PE ,per metre,"Install (per metre) for situations where the service length is over the 20 metre allowance. 
+If Open Trench supplied, apply Open Trench MIPD rate",33.13,26.10663243
+5100044,-,-,Over length Services,40mm PE ,per metre,"Install (per metre) for situations where the service length is over the 20 metre allowance. 
+If Open Trench supplied, apply Open Trench MIPD rate",44.8315,35.80599726
+5100045,-,-,Over length Services,63mm PE ,per metre,"Install (per metre) for situations where the service length is over the 20 metre allowance. 
+If Open Trench supplied, apply Open Trench MIPD rate",47.7015,37.93665732
+5100039,-,-,Uplifts ,Hard Rock (excavated),per metre,Uplift on base rates,109.2436,73.1553732
+5100040,-,-,Uplifts ,Hard Rock (HDD),per metre,Uplift on base rates,105.49,63.263844
+5100046,-,-,Copper Pipework,Additional CU Pipework / 20mm CU ,per metre,"Includes supply and installation of copper piping and all associated fittings and fixings
+Copper rate to be claimed when installing manifold for multiple meter connections",49.431,37.7680417
+5100047,-,-,Copper Pipework,Additional CU Pipework / 25mm CU ,per metre,"Includes supply and installation of copper piping and all associated fittings and fixings
+Copper rate to be claimed when installing manifold for multiple meter connections",56.331,43.3770217
+5100048,-,-,Copper Pipework,Additional CU Pipework / 32mm CU ,per metre,"Includes supply and installation of copper piping and all associated fittings and fixings
+Copper rate to be claimed when installing manifold for multiple meter connections",64.668,49.71747919
+5100049,-,-,Copper Pipework,Additional CU Pipework / 40mm CU ,per metre,"Includes supply and installation of copper piping and all associated fittings and fixings
+Copper rate to be claimed when installing manifold for multiple meter connections",86.865,66.75759583
+5100050,-,-,Copper Pipework,Additional CU Pipework / 50mm CU ,per metre,"Includes supply and installation of copper piping and all associated fittings and fixings
+Copper rate to be claimed when installing manifold for multiple meter connections",105.222,80.69431424
+5100051,-,-,Service Valves,Installation of Additional PE Valve 20mm & 25mm ,per item,"Includes valve cover, slab and telescope riser. This rate is not to be applied when making a mains connection via means of a hot tap",494.99,359.78012
+5100052,-,-,Service Valves,Installation of Additional PE Valve 40mm & 63mm,per item,"Includes valve cover, slab and telescope riser. This rate is not to be applied when making a mains connection via means of a hot tap",648.33,522.56284
+5100053,-,-,Service Valves,Installation of Additional PE Valve 110mm,per item,"Includes valve cover, slab and telescope riser. This rate is not to be applied when making a mains connection via means of a hot tap",1031.99,793.63274
+5100055,-,-,Additional ,Steel Main / Welded Connection / Spigot and Valve Connection,per item,Add to relevant base rate when connecting to steel main by welded connection,372.66,265.659702
+5100054,-,-,Additional ,Steel Main / Welded Connection Punch It Tee,per item,Add to relevant base rate when connecting to steel main by welded connection,355.27,266.4525
+3000112,-,-,Additional ,Bollard Installation (75mm painted),per item,install bollard supplied by the Company. Includes all materials ,181.805,136.35375
+3000142,-,-,Additional ,Install 'L' Bracket,,Install 'L' bracket as per meter compliance guide,96.22,94.74693
+3000143,-,-,Additional ,Stainless Steel wrap around connection,per item,add to relevant base rate when connecting to steel main by means of wrap around fitting,400.595,300.44625
+5100061,,,,Mains in private Developments (MIPD),per metre,Trench supplied by third party,19.9773,15.66160904
+5100062,,,,MIPD,per metre,,357.8678,250.6035073
+5100063,,,,MIPD,per metre,,251.813,201.1591473
+5100064,,,,MIPD,per metre,,51.788,41.51820904
+5100065,,,,MIPD,per metre,Uplift applied to base rates,89.61,71.9488
+5100066,,,,MIPD HDD,per metre,With Company approval,122.919,111.2407735
+5100067,,,,MIPD HDD,per metre,Uplift applied to base rates,93.3425,79.8182
+5100068,,,,Mains in private Developments (MIPD),per metre,Trench supplied by third party,22.9528,16.77408348
+5100069,,,,MIPD,per metre,,358.3478,251.7292473
+5100070,,,,MIPD,per metre,,252.093,201.1402473
+5100071,,,,MIPD,per metre,,52.343,39.94429516
+5100072,,,,MIPD,per metre,Uplift applied to base rates,90.12,71.9488
+5100073,,,,MIPD HDD,per metre,With Company approval,123.399,109.6679569
+5100074,,,,MIPD HDD,per metre,Uplift applied to base rates,93.3425,78.25601168
+5100075,,,,Mains in private Developments (MIPD),per metre,Trench supplied by third party,35.1792,27.93920899
+5100076,,,,MIPD,per metre,,450.8972,259.6692423
+5100077,,,,MIPD,per metre,,255.3908,204.4403623
+5100078,,,,MIPD,per metre,,61.8308,48.86102067
+5100079,,,,MIPD,per metre,Uplift applied to base rates,90.47,71.9488
+5100080,,,,MIPD HDD,per metre,With Company approval,127.619,114.1438421
+5100081,,,,MIPD HDD,per metre,Uplift applied to base rates,93.3925,80.50441168
+5100082,,,,Mains in private Developments (MIPD),per metre,Trench supplied by third party,42.5524,33.4882317
+5100083,,,,MIPD,per metre,,460.0347,271.0453973
+5100084,,,,MIPD,per metre,,259.0768,207.7427173
+5100085,,,,MIPD,per metre,,76.5252,61.15524338
+5100086,,,,MIPD,per metre,Uplift applied to base rates,90.54,71.9488
+5100087,,,,MIPD HDD,per metre,With Company approval,134.6945,116.3367236
+5100088,,,,MIPD HDD,per metre,Uplift applied to base rates,100.61,88.37381168
+5100089,,,,Mains in private Developments (MIPD),per metre,Trench supplied by third party,66.5884,47.88584647
+5100090,,,,MIPD,per metre,,471.4206,297.1479423
+5100091,,,,MIPD,per metre,,331.1232,264.8527423
+5100092,,,,MIPD,per metre,,111.1752,89.04325815
+5100093,,,,MIPD,per metre,Uplift applied to base rates,90.04,71.9488
+5100094,,,,MIPD HDD,per metre,With Company approval,158.371,138.7027103
+5100095,,,,MIPD HDD,per metre,Uplift applied to base rates,129.5,117.6030117
+5200023,,,,,,,0,0
